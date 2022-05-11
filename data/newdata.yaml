@@ -1,7 +1,0 @@
-train: /SSD1T/02_Dataset/600_crop_yolo_lices_dataset/train.txt
-val: /SSD1T/02_Dataset/600_crop_yolo_lices_dataset/test.txt
-# number of classes
-nc: 1
-
-# class names
-names: ['lice']
