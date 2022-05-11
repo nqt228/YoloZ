@@ -1,0 +1,8 @@
+
+train: /SSD1T/02_Dataset/600_crop_yolo_lices_dataset_300/train/
+val: /SSD1T/02_Dataset/600_crop_yolo_lices_dataset_300/test/
+# number of classes
+nc: 1
+
+# class names
+names: ['lice']
